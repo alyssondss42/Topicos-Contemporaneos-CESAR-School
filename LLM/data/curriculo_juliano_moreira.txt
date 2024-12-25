@@ -1,0 +1,80 @@
+Juliano Moreira
+
+
+Resumo Profissional
+Cientista de Dados com mais de 5 anos de experiência em análise de dados, machine learning e inteligência artificial. Expertise em transformar grandes volumes de dados em insights estratégicos para tomadas de decisão de negócios. Proficiente em Python, SQL, R, e ferramentas de visualização como Power BI e Tableau. Experiência em trabalhar com modelos preditivos, análise estatística e otimização de processos empresariais. Com forte habilidade de comunicação e apresentação, colaborando estreitamente com equipes multifuncionais para implementar soluções baseadas em dados.
+
+
+Experiência Profissional
+Cientista de Dados Sênior
+Empresa XYZ — São Paulo, SP
+Março 2022 – Atual
+
+Desenvolvimento e implementação de modelos preditivos de aprendizado de máquina para previsão de demanda e otimização de inventário, resultando em uma redução de 15% nos custos operacionais.
+Análise de grandes volumes de dados em tempo real para detectar padrões e fornecer insights para equipes de marketing e vendas.
+Aplicação de técnicas de NLP (Processamento de Linguagem Natural) para análise de sentimentos em feedbacks de clientes, identificando áreas chave para melhoria de produtos.
+Criação de dashboards interativos e relatórios de performance para stakeholders, utilizando Power BI e Tableau.
+Liderança de uma equipe de 3 analistas de dados, promovendo o desenvolvimento contínuo e a integração de novas tecnologias.
+
+
+Cientista de Dados
+Tech Solutions Ltda. — São Paulo, SP
+Julho 2018 – Fevereiro 2022
+
+Criação de modelos de machine learning para previsão de churn de clientes, com taxa de sucesso de 80% na antecipação de perdas de clientes.
+Análise estatística de dados históricos de vendas para identificar tendências e oferecer recomendações de estratégia para a diretoria de vendas.
+Desenvolvimento de algoritmos de recomendação para melhorar a experiência do cliente no e-commerce, resultando em um aumento de 10% na taxa de conversão.
+Automação de processos de coleta e limpeza de dados, utilizando Python e SQL, reduzindo o tempo de processamento em 30%.
+Colaboração com equipes de TI e engenharia para garantir a integridade e a acessibilidade dos dados necessários para a análise.
+
+
+Analista de Dados Júnior
+InovaTech Consultoria — São Paulo, SP
+Janeiro 2016 – Junho 2018
+
+Responsável pela análise exploratória de dados, criação de relatórios e extração de insights para apoiar decisões estratégicas de clientes.
+Utilização de SQL para manipulação de grandes bases de dados e otimização de consultas.
+Desenvolvimento de scripts em Python para análise estatística e visualização de dados em gráficos interativos.
+Suporte na criação de modelos de previsão de vendas e análise de dados financeiros.
+
+
+Formação Acadêmica
+Mestrado em Ciência de Dados
+Universidade de São Paulo (USP) — São Paulo, SP
+Conclusão: 2021
+
+Bacharelado em Engenharia de Computação
+Universidade Estadual de Campinas (UNICAMP) — Campinas, SP
+Conclusão: 2015
+
+
+Certificações
+Certificação em Machine Learning – Coursera (2020)
+Certificação em Data Science – DataCamp (2019)
+Certificação em Análise de Dados com Python – Udemy (2018)
+Certificação em Power BI – Microsoft (2017)
+
+
+Habilidades Técnicas
+Linguagens de Programação: Python (pandas, numpy, scikit-learn, tensorflow), SQL, R, MATLAB
+Ferramentas de Visualização de Dados: Tableau, Power BI, Matplotlib, Seaborn
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+Modelos e Algoritmos de Machine Learning: Regressão Linear, Árvores de Decisão, Random Forest, SVM, Redes Neurais
+Técnicas Estatísticas: Análise de Regressão, Testes de Hipóteses, Séries Temporais
+Plataformas e Ferramentas de Cloud: AWS, Google Cloud, Microsoft Azure
+
+
+Idiomas
+Português: Nativo
+Inglês: Avançado (leitura, escrita e conversação)
+Espanhol: Intermediário
+
+
+Projetos Relevantes
+Previsão de Demanda em E-commerce: Desenvolvimento de um modelo de previsão de demanda baseado em séries temporais para um cliente no setor de varejo, reduzindo excessos de estoque e aumentando a eficiência da cadeia de suprimentos.
+Análise de Sentimentos em Redes Sociais: Criação de um modelo de NLP para análise de sentimentos em posts de redes sociais de uma marca, fornecendo insights acionáveis para a área de marketing sobre percepção de marca.
+Otimização de Algoritmos de Recomendação: Melhoria de um sistema de recomendação de produtos baseado em comportamento de compra de usuários, aumentando a taxa de conversão em 12%.
+Atividades Complementares
+Participação em eventos e workshops sobre Inteligência Artificial e Data Science, como a Data Science Week (2019 e 2020).
+Mentor de novos cientistas de dados em plataformas como Kaggle e StackOverflow.
+Voluntário em iniciativas de dados abertos e educação tecnológica para jovens em comunidades carentes.
